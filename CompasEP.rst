@@ -48,7 +48,7 @@ The word `hashable` used in network's doc is a bit confusing for newcomers. Mayb
 
 Notes
 =====
-Since this seems to be the first CompasEP, I am following the REP (ROS enhancement proposal) guideline [#REP-0012]_. See [#REP-I0007] for a good example.
+Since this seems to be the first CompasEP, I am following the REP (ROS enhancement proposal) guideline [#REP-0012]_. See [#REP-I0007]_ for a good example.
 
 References
 ==========
