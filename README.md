@@ -1,7 +1,8 @@
-Test cases for the `[compas_fab](https://github.com/compas-dev/compas_fab)`'s `assembly` module.
+# Test cases for the [compas_fab](https://github.com/compas-dev/compas_fab)-[pychoreo](https://github.com/yijiangh/pychoreo)
 
 The test cases currently contain:
-- robotic assembly of rebar cages @[Toggle](https://www.toggle.is/) (Rhino/Grasshopper)
+- ur picknplace examples for the [compas_fab_choreo_workshop](https://github.com/yijiangh/compas_fab_choreo_workshop)
+- robotic assembly of rebar cages @[Toggle](https://www.toggle.is/)
 
 TODO:
 - DMS bar assembly
